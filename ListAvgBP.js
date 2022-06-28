@@ -5,7 +5,7 @@ function ListAvgBP(arrayParams) {
       sum += arrayParams[i];
       // console.log("Pressure: ");
     }
-    let avgBP = sum/(arrayParams.length);
+    let avgBP = Math.round(sum/(arrayParams.length)*10)/10;
     return avgBP
   }
 

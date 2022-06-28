@@ -5,7 +5,7 @@ function ListAvgPulse(arrayParams) {
       sum += arrayParams[i];
       // console.log("Pulsse: ");
     }
-    let avgPulse = sum/(arrayParams.length);
+    let avgPulse = Math.round(sum/(arrayParams.length)*10)/10;
     return avgPulse
   }
 

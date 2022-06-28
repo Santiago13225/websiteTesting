@@ -5,7 +5,7 @@ function ListAvgWH(arrayParams) {
       sum += arrayParams[i];
       // console.log("Avg Hours of Work: ");
     }
-    let avgWH = sum/(arrayParams.length);
+    let avgWH = Math.round(sum/(arrayParams.length)*10)/10;
     return avgWH
   }
 

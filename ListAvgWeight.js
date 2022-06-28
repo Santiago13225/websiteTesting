@@ -5,7 +5,7 @@ function ListAvgWeight(arrayParams) {
       sum += arrayParams[i];
       // console.log("Weight: ");
     }
-    let avgWeight = sum/(arrayParams.length);
+    let avgWeight = Math.round(sum/(arrayParams.length)*10)/10;
     return avgWeight
   }
 

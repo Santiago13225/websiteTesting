@@ -5,7 +5,7 @@ function ListAvgExc(arrayParams) {
       sum += arrayParams[i];
       // console.log("Avg Hours of Exercise: ");
     }
-    let avgExc = sum/(arrayParams.length);
+    let avgExc = Math.round(sum/(arrayParams.length)*10)/10;
     return avgExc
   }
 

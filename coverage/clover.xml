@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1656292453479" clover="3.2.0">
-  <project timestamp="1656292453480" name="All files">
-    <metrics statements="60" coveredstatements="50" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="8" elements="70" coveredelements="58" complexity="0" loc="60" ncloc="60" packages="1" files="10" classes="10"/>
-    <file name="ListAvgAge.js" path="C:\Users\santi\Downloads\websiteTesting\ListAvgAge.js">
+<coverage generated="1656435242273" clover="3.2.0">
+  <project timestamp="1656435242273" name="All files">
+    <metrics statements="60" coveredstatements="60" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10" elements="70" coveredelements="70" complexity="0" loc="60" ncloc="60" packages="1" files="10" classes="10"/>
+    <file name="ListAvgAge.js" path="C:\Users\steve\OneDrive\Documents\GitHub\websiteTesting\ListAvgAge.js">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
@@ -11,16 +11,7 @@
       <line num="9" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
     </file>
-    <file name="ListAvgBP.js" path="C:\Users\santi\Downloads\websiteTesting\ListAvgBP.js">
-      <metrics statements="6" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-      <line num="3" count="0" type="stmt"/>
-      <line num="4" count="0" type="stmt"/>
-      <line num="5" count="0" type="stmt"/>
-      <line num="8" count="0" type="stmt"/>
-      <line num="9" count="0" type="stmt"/>
-      <line num="12" count="1" type="stmt"/>
-    </file>
-    <file name="ListAvgExc" path="C:\Users\santi\Downloads\websiteTesting\ListAvgExc">
+    <file name="ListAvgBP.js" path="C:\Users\steve\OneDrive\Documents\GitHub\websiteTesting\ListAvgBP.js">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
@@ -29,7 +20,7 @@
       <line num="9" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
     </file>
-    <file name="ListAvgHeight.js" path="C:\Users\santi\Downloads\websiteTesting\ListAvgHeight.js">
+    <file name="ListAvgExc" path="C:\Users\steve\OneDrive\Documents\GitHub\websiteTesting\ListAvgExc">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
@@ -38,7 +29,7 @@
       <line num="9" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
     </file>
-    <file name="ListAvgPulse.js" path="C:\Users\santi\Downloads\websiteTesting\ListAvgPulse.js">
+    <file name="ListAvgHeight.js" path="C:\Users\steve\OneDrive\Documents\GitHub\websiteTesting\ListAvgHeight.js">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
@@ -47,16 +38,7 @@
       <line num="9" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
     </file>
-    <file name="ListAvgRR.js" path="C:\Users\santi\Downloads\websiteTesting\ListAvgRR.js">
-      <metrics statements="6" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-      <line num="3" count="0" type="stmt"/>
-      <line num="4" count="0" type="stmt"/>
-      <line num="5" count="0" type="stmt"/>
-      <line num="8" count="0" type="stmt"/>
-      <line num="9" count="0" type="stmt"/>
-      <line num="12" count="1" type="stmt"/>
-    </file>
-    <file name="ListAvgTemp.js" path="C:\Users\santi\Downloads\websiteTesting\ListAvgTemp.js">
+    <file name="ListAvgPulse.js" path="C:\Users\steve\OneDrive\Documents\GitHub\websiteTesting\ListAvgPulse.js">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
@@ -65,7 +47,7 @@
       <line num="9" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
     </file>
-    <file name="ListAvgVB.js" path="C:\Users\santi\Downloads\websiteTesting\ListAvgVB.js">
+    <file name="ListAvgRR.js" path="C:\Users\steve\OneDrive\Documents\GitHub\websiteTesting\ListAvgRR.js">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
@@ -74,7 +56,7 @@
       <line num="9" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
     </file>
-    <file name="ListAvgWH.js" path="C:\Users\santi\Downloads\websiteTesting\ListAvgWH.js">
+    <file name="ListAvgTemp.js" path="C:\Users\steve\OneDrive\Documents\GitHub\websiteTesting\ListAvgTemp.js">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
@@ -83,7 +65,25 @@
       <line num="9" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
     </file>
-    <file name="ListAvgWeight.js" path="C:\Users\santi\Downloads\websiteTesting\ListAvgWeight.js">
+    <file name="ListAvgVB.js" path="C:\Users\steve\OneDrive\Documents\GitHub\websiteTesting\ListAvgVB.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="15" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+    <file name="ListAvgWH.js" path="C:\Users\steve\OneDrive\Documents\GitHub\websiteTesting\ListAvgWH.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="15" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+    <file name="ListAvgWeight.js" path="C:\Users\steve\OneDrive\Documents\GitHub\websiteTesting\ListAvgWeight.js">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>

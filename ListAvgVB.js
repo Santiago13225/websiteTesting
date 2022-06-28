@@ -5,7 +5,7 @@ function ListAvgVB(arrayParams) {
       sum += arrayParams[i];
       // console.log("Avg Vacation Balance: ");
     }
-    let avgVB = sum/(arrayParams.length);
+    let avgVB = Math.round(sum/(arrayParams.length)*10)/10;
     return avgVB
   }
 

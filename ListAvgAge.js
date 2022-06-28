@@ -5,7 +5,7 @@ function ListAvgAge(arrayParams) {
       sum += arrayParams[i];
       // console.log("Age: ");
     }
-    let avgAge = sum/(arrayParams.length);
+    let avgAge = Math.round(sum/(arrayParams.length)*10)/10;
     return avgAge
   }
 

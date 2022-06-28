@@ -5,7 +5,7 @@ function ListAvgTemp(arrayParams) {
       sum += arrayParams[i];
       // console.log("Temp: ");
     }
-    let avgTemp = sum/(arrayParams.length);
+    let avgTemp = Math.round(sum/(arrayParams.length)*100)/100;
     return avgTemp
   }
 

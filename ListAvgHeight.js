@@ -5,7 +5,7 @@ function ListAvgHeight(arrayParams) {
       sum += arrayParams[i];
       // console.log("Avg Height: ");
     }
-    let avgHeight = sum/(arrayParams.length);
+    let avgHeight = Math.round(sum/(arrayParams.length)*10)/10;
     return avgHeight
   }
 

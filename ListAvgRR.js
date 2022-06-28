@@ -5,7 +5,7 @@ function ListAvgRR(arrayParams) {
       sum += arrayParams[i];
       // console.log("Respiration Rate: ");
     }
-    let avgRR = sum/(arrayParams.length);
+    let avgRR = Math.round(sum/(arrayParams.length)*10)/10;
     return avgRR
   }
 
